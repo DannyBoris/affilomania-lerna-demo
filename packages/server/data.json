@@ -1,0 +1,508 @@
+[
+  {
+    "eventId": "cc669428-f030-479f-a600-bc25f10f831a",
+    "reqId": "3a6c1750-8c80-4e8e-ad29-25fc1150cff2",
+    "leadId": "0920cea0-dd51-4015-80b0-4dac7dc0877a",
+    "type": "InputValidation",
+    "version": 1,
+    "data": {
+      "lead": {
+        "affId": 54,
+        "firstName": "test",
+        "lastName": "test",
+        "email": "random60@example.com",
+        "ip": "91.80.29.13",
+        "phone": "+493023890",
+        "password": "ab132546464",
+        "offer": {
+          "name": "bitcoin code",
+          "url": "google.com",
+          "key": "COIN",
+          "description": "this is bitcoin code funnel",
+          "typeId": 1,
+          "lang": "EN"
+        },
+        "extraInfo": {
+          "clickId": "ab-123",
+          "subSource": 20,
+          "affSub_1": "demmy",
+          "affSub_2": "demmy",
+          "affSub_3": "demmy",
+          "affSub_4": "demmy",
+          "affSub_5": "demmy",
+          "affSub_6": "demmy",
+          "affSub_7": "demmy",
+          "affSub_8": "demmy",
+          "affSub_9": "demmy",
+          "affSub_10": "demmy"
+        }
+      },
+      "inputValidation": {
+        "status": false,
+        "msg": "Random Message 60",
+        "data": null
+      }
+    },
+    "createdAt": 1699638078300
+  },
+  {
+    "eventId": "765611fa-243a-452e-8590-4cc395a63b25",
+    "reqId": "9ebb30e1-42f6-4455-9eef-6ddc14128a7f",
+    "leadId": "a105bc2d-21ae-4208-9cfe-0c19ecd84a78",
+    "type": "InputValidation",
+    "version": 1,
+    "data": {
+      "lead": {
+        "affId": 54,
+        "firstName": "test",
+        "lastName": "test",
+        "email": "random60@example.com",
+        "ip": "91.80.29.13",
+        "phone": "+493023890",
+        "password": "ab132546464",
+        "offer": {
+          "name": "bitcoin code",
+          "url": "google.com",
+          "key": "COIN",
+          "description": "this is bitcoin code funnel",
+          "typeId": 1,
+          "lang": "EN"
+        },
+        "extraInfo": {
+          "clickId": "ab-123",
+          "subSource": 20,
+          "affSub_1": "demmy",
+          "affSub_2": "demmy",
+          "affSub_3": "demmy",
+          "affSub_4": "demmy",
+          "affSub_5": "demmy",
+          "affSub_6": "demmy",
+          "affSub_7": "demmy",
+          "affSub_8": "demmy",
+          "affSub_9": "demmy",
+          "affSub_10": "demmy"
+        }
+      },
+      "inputValidation": {
+        "status": false,
+        "msg": "Random Message 60",
+        "data": null
+      }
+    },
+    "createdAt": 1699638078300
+  },
+  {
+    "eventId": "40bd1637-b326-4acb-8ffa-941654eb1fd6",
+    "reqId": "3f6fd132-7c8c-4fe0-bc46-7d6e8a08cb9b",
+    "leadId": "e29c857c-25c2-4476-80bd-4ca55d894428",
+    "type": "InputValidation",
+    "version": 1,
+    "data": {
+      "lead": {
+        "affId": 739,
+        "firstName": "fdsa",
+        "lastName": "test",
+        "email": "random54@example.com",
+        "ip": "91.80.29.13",
+        "phone": "+493023890",
+        "password": "ab132546464",
+        "offer": {
+          "name": "bitcoin code",
+          "url": "google.com",
+          "key": "COIN",
+          "description": "this is bitcoin code funnel",
+          "typeId": 1,
+          "lang": "EN"
+        },
+        "extraInfo": {
+          "clickId": "ab-123",
+          "subSource": 20,
+          "affSub_1": "demmy",
+          "affSub_2": "demmy",
+          "affSub_3": "demmy",
+          "affSub_4": "demmy",
+          "affSub_5": "demmy",
+          "affSub_6": "demmy",
+          "affSub_7": "demmy",
+          "affSub_8": "demmy",
+          "affSub_9": "demmy",
+          "affSub_10": "demmy"
+        }
+      },
+      "inputValidation": {
+        "status": false,
+        "msg": "username",
+        "data": null
+      }
+    },
+    "createdAt": 1699654852193
+  },
+  {
+    "eventId": "e753c64d-e610-4e61-968f-aba7156ce45d",
+    "reqId": "d4970e88-4ee8-4d07-82fd-6fa119edb602",
+    "leadId": "cb9d92c6-8bf3-4176-967c-2adfb1c4a8d6",
+    "type": "InputValidation",
+    "version": 1,
+    "data": {
+      "lead": {
+        "affId": 151,
+        "firstName": "fdsa",
+        "lastName": "test",
+        "email": "random67@example.com",
+        "ip": "91.80.29.13",
+        "phone": "+493023890",
+        "password": "ab132546464",
+        "offer": {
+          "name": "bitcoin code",
+          "url": "google.com",
+          "key": "COIN",
+          "description": "this is bitcoin code funnel",
+          "typeId": 1,
+          "lang": "EN"
+        },
+        "extraInfo": {
+          "clickId": "ab-123",
+          "subSource": 20,
+          "affSub_1": "demmy",
+          "affSub_2": "demmy",
+          "affSub_3": "demmy",
+          "affSub_4": "demmy",
+          "affSub_5": "demmy",
+          "affSub_6": "demmy",
+          "affSub_7": "demmy",
+          "affSub_8": "demmy",
+          "affSub_9": "demmy",
+          "affSub_10": "demmy"
+        }
+      },
+      "inputValidation": {
+        "status": false,
+        "msg": "fdsvda",
+        "data": null
+      }
+    },
+    "createdAt": 1699655822567
+  },
+  {
+    "eventId": "ec4eaf16-c88b-48ec-a130-ac7488a475fb",
+    "reqId": "dd73ce95-0100-4b7b-9714-65b633150156",
+    "leadId": "3c87ae9f-06df-4796-93ab-36243b0f6880",
+    "type": "InputValidation",
+    "version": 1,
+    "data": {
+      "lead": {
+        "affId": 724,
+        "firstName": "fdsa",
+        "lastName": "test",
+        "email": "random50@example.com",
+        "ip": "91.80.29.13",
+        "phone": "+493023890",
+        "password": "ab132546464",
+        "offer": {
+          "name": "bitcoin code",
+          "url": "google.com",
+          "key": "COIN",
+          "description": "this is bitcoin code funnel",
+          "typeId": 1,
+          "lang": "EN"
+        },
+        "extraInfo": {
+          "clickId": "ab-123",
+          "subSource": 20,
+          "affSub_1": "demmy",
+          "affSub_2": "demmy",
+          "affSub_3": "demmy",
+          "affSub_4": "demmy",
+          "affSub_5": "demmy",
+          "affSub_6": "demmy",
+          "affSub_7": "demmy",
+          "affSub_8": "demmy",
+          "affSub_9": "demmy",
+          "affSub_10": "demmy"
+        }
+      },
+      "inputValidation": {
+        "status": false,
+        "msg": "Error username",
+        "data": null
+      }
+    },
+    "createdAt": 1699668136784
+  },
+  {
+    "eventId": "24deda0d-3c2d-4705-bcc2-9dd60901c802",
+    "reqId": "b0c16059-6fc6-428d-939c-09fa8fb18ab1",
+    "leadId": "92fea292-a45c-4838-90f8-bcc19fa41374",
+    "type": "InputValidation",
+    "version": 1,
+    "data": {
+      "lead": {
+        "affId": 231,
+        "firstName": "fdsa",
+        "lastName": "test",
+        "email": "random43@example.com",
+        "ip": "91.80.29.13",
+        "phone": "+493023890",
+        "password": "ab132546464",
+        "offer": {
+          "name": "bitcoin code",
+          "url": "google.com",
+          "key": "COIN",
+          "description": "this is bitcoin code funnel",
+          "typeId": 1,
+          "lang": "EN"
+        },
+        "extraInfo": {
+          "clickId": "ab-123",
+          "subSource": 20,
+          "affSub_1": "demmy",
+          "affSub_2": "demmy",
+          "affSub_3": "demmy",
+          "affSub_4": "demmy",
+          "affSub_5": "demmy",
+          "affSub_6": "demmy",
+          "affSub_7": "demmy",
+          "affSub_8": "demmy",
+          "affSub_9": "demmy",
+          "affSub_10": "demmy"
+        }
+      },
+      "inputValidation": {
+        "status": false,
+        "msg": "Error fa",
+        "data": null
+      }
+    },
+    "createdAt": 1699668144166
+  },
+  {
+    "eventId": "730fc8a1-a645-4f66-97c3-2b76f9865d2b",
+    "reqId": "72b5fc62-a848-4e2e-b32b-b10dc491f04b",
+    "leadId": "d43ec134-9a4f-4d52-b0c1-e72bababfaf1",
+    "type": "InputValidation",
+    "version": 1,
+    "data": {
+      "lead": {
+        "affId": 16,
+        "firstName": "fdsa",
+        "lastName": "test",
+        "email": "random19@example.com",
+        "ip": "91.80.29.13",
+        "phone": "+493023890",
+        "password": "ab132546464",
+        "offer": {
+          "name": "bitcoin code",
+          "url": "google.com",
+          "key": "COIN",
+          "description": "this is bitcoin code funnel",
+          "typeId": 1,
+          "lang": "EN"
+        },
+        "extraInfo": {
+          "clickId": "ab-123",
+          "subSource": 20,
+          "affSub_1": "demmy",
+          "affSub_2": "demmy",
+          "affSub_3": "demmy",
+          "affSub_4": "demmy",
+          "affSub_5": "demmy",
+          "affSub_6": "demmy",
+          "affSub_7": "demmy",
+          "affSub_8": "demmy",
+          "affSub_9": "demmy",
+          "affSub_10": "demmy"
+        }
+      },
+      "inputValidation": {
+        "status": false,
+        "msg": "Error fa",
+        "data": null
+      }
+    },
+    "createdAt": 1699710316097
+  },
+  {
+    "eventId": "3d3dd38f-06eb-4280-8322-4c0a0fb3597d",
+    "reqId": "a4373cf7-15e0-4517-8525-ac3896dafa77",
+    "leadId": "50060c85-2b4c-40bf-a0d9-317993dbd845",
+    "type": "InputValidation",
+    "version": 1,
+    "data": {
+      "lead": {
+        "affId": 141,
+        "firstName": "fdsa",
+        "lastName": "test",
+        "email": "random4@example.com",
+        "ip": "91.80.29.13",
+        "phone": "+493023890",
+        "password": "ab132546464",
+        "offer": {
+          "name": "bitcoin code",
+          "url": "google.com",
+          "key": "COIN",
+          "description": "this is bitcoin code funnel",
+          "typeId": 1,
+          "lang": "EN"
+        },
+        "extraInfo": {
+          "clickId": "ab-123",
+          "subSource": 20,
+          "affSub_1": "demmy",
+          "affSub_2": "demmy",
+          "affSub_3": "demmy",
+          "affSub_4": "demmy",
+          "affSub_5": "demmy",
+          "affSub_6": "demmy",
+          "affSub_7": "demmy",
+          "affSub_8": "demmy",
+          "affSub_9": "demmy",
+          "affSub_10": "demmy"
+        }
+      },
+      "inputValidation": {
+        "status": false,
+        "msg": "Error fd",
+        "data": null
+      }
+    },
+    "createdAt": 1699710320997
+  },
+  {
+    "eventId": "dd668b93-9844-4f8a-96ce-c02faecbb4f9",
+    "reqId": "1f8e8264-8f14-4539-a821-ce0603e34e34",
+    "leadId": "775d6c4b-73c5-4230-87e9-df0096f859ed",
+    "type": "InputValidation",
+    "version": 1,
+    "data": {
+      "lead": {
+        "affId": 181,
+        "firstName": "fdsa",
+        "lastName": "test",
+        "email": "random69@example.com",
+        "ip": "91.80.29.13",
+        "phone": "+493023890",
+        "password": "ab132546464",
+        "offer": {
+          "name": "bitcoin code",
+          "url": "google.com",
+          "key": "COIN",
+          "description": "this is bitcoin code funnel",
+          "typeId": 1,
+          "lang": "EN"
+        },
+        "extraInfo": {
+          "clickId": "ab-123",
+          "subSource": 20,
+          "affSub_1": "demmy",
+          "affSub_2": "demmy",
+          "affSub_3": "demmy",
+          "affSub_4": "demmy",
+          "affSub_5": "demmy",
+          "affSub_6": "demmy",
+          "affSub_7": "demmy",
+          "affSub_8": "demmy",
+          "affSub_9": "demmy",
+          "affSub_10": "demmy"
+        }
+      },
+      "inputValidation": {
+        "status": false,
+        "msg": "eror from the other side",
+        "data": null
+      }
+    },
+    "createdAt": 1699718174861
+  },
+  {
+    "eventId": "44171fe9-e3d9-4fd1-b64a-8857463cf00f",
+    "reqId": "872ddd0d-b1f0-410f-9248-260263b30904",
+    "leadId": "53e07b9e-7196-4096-95ea-12c4e2cac69d",
+    "type": "InputValidation",
+    "version": 1,
+    "data": {
+      "lead": {
+        "affId": 60,
+        "firstName": "fdsa",
+        "lastName": "test",
+        "email": "random44@example.com",
+        "ip": "91.80.29.13",
+        "phone": "+493023890",
+        "password": "ab132546464",
+        "offer": {
+          "name": "bitcoin code",
+          "url": "google.com",
+          "key": "COIN",
+          "description": "this is bitcoin code funnel",
+          "typeId": 1,
+          "lang": "EN"
+        },
+        "extraInfo": {
+          "clickId": "ab-123",
+          "subSource": 20,
+          "affSub_1": "demmy",
+          "affSub_2": "demmy",
+          "affSub_3": "demmy",
+          "affSub_4": "demmy",
+          "affSub_5": "demmy",
+          "affSub_6": "demmy",
+          "affSub_7": "demmy",
+          "affSub_8": "demmy",
+          "affSub_9": "demmy",
+          "affSub_10": "demmy"
+        }
+      },
+      "inputValidation": {
+        "status": false,
+        "msg": "this",
+        "data": null
+      }
+    },
+    "createdAt": 1699718179454
+  },
+  {
+    "eventId": "503355f5-4e2a-4523-af0e-830774bace97",
+    "reqId": "e4187bda-0215-44e8-8374-a43c41ade1e7",
+    "leadId": "4d1d24ef-624a-41e6-b765-419159abc134",
+    "type": "InputValidation",
+    "version": 1,
+    "data": {
+      "lead": {
+        "affId": 640,
+        "firstName": "fdsa",
+        "lastName": "test",
+        "email": "random30@example.com",
+        "ip": "91.80.29.13",
+        "phone": "+493023890",
+        "password": "ab132546464",
+        "offer": {
+          "name": "bitcoin code",
+          "url": "google.com",
+          "key": "COIN",
+          "description": "this is bitcoin code funnel",
+          "typeId": 1,
+          "lang": "EN"
+        },
+        "extraInfo": {
+          "clickId": "ab-123",
+          "subSource": 20,
+          "affSub_1": "demmy",
+          "affSub_2": "demmy",
+          "affSub_3": "demmy",
+          "affSub_4": "demmy",
+          "affSub_5": "demmy",
+          "affSub_6": "demmy",
+          "affSub_7": "demmy",
+          "affSub_8": "demmy",
+          "affSub_9": "demmy",
+          "affSub_10": "demmy"
+        }
+      },
+      "inputValidation": {
+        "status": false,
+        "msg": "this",
+        "data": null
+      }
+    },
+    "createdAt": 1699718193504
+  }
+]
